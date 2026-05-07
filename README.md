@@ -1,10 +1,18 @@
 # Gerar Charters Testes Exploratorios
 
+[![skills.sh](https://skills.sh/b/DeanVini/gerar-charters-testes-exploratorios)](https://skills.sh/DeanVini/gerar-charters-testes-exploratorios)
+
 Skill Codex para gerar, revisar e organizar charters de testes exploratorios no padrao da disciplina Projeto Orientado em Computacao/UFS.
 
 ## Instalacao
 
-No Codex, peca para instalar a skill a partir deste repositorio:
+Instale pelo ecossistema skills.sh:
+
+```powershell
+npx skills add DeanVini/gerar-charters-testes-exploratorios -a codex -y
+```
+
+Ou, no Codex, peca para instalar a skill a partir deste repositorio:
 
 ```text
 Use $skill-installer para instalar a skill do GitHub DeanVini/gerar-charters-testes-exploratorios com path . e nome gerar-charters-testes-exploratorios.
