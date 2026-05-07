@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gerar Charters de Testes"
+  short_description: "Charters exploratorios no padrao da disciplina"
+  default_prompt: "Use $gerar-charters-testes-exploratorios para criar charters exploratorios e issues de bugs/melhorias no padrao da disciplina."
